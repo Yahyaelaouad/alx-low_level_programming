@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints the name of the file it was compiled from 
+ * main - program prints the name of the file it was compiled from 
  * OWNED BY YAHYA
  * Return: 0
  */

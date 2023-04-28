@@ -12,5 +12,5 @@ mov rdi, hello
 xor rax, rax
 call printf
 mov eax, 0
-leave
+
 ret
